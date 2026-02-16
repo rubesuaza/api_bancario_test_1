@@ -1,0 +1,12 @@
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Domain/bin/Debug/net8.0/api_bank.Domain.deps.json
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Domain/bin/Debug/net8.0/api_bank.Domain.dll
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Domain/bin/Debug/net8.0/api_bank.Domain.pdb
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Domain/obj/Debug/net8.0/api_bank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Domain/obj/Debug/net8.0/api_bank.Domain.AssemblyInfoInputs.cache
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Domain/obj/Debug/net8.0/api_bank.Domain.AssemblyInfo.cs
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Domain/obj/Debug/net8.0/api_bank.Domain.csproj.CoreCompileInputs.cache
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Domain/obj/Debug/net8.0/api_bank.Domain.sourcelink.json
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Domain/obj/Debug/net8.0/api_bank.Domain.dll
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Domain/obj/Debug/net8.0/refint/api_bank.Domain.dll
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Domain/obj/Debug/net8.0/api_bank.Domain.pdb
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Domain/obj/Debug/net8.0/ref/api_bank.Domain.dll

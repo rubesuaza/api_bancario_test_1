@@ -3,6 +3,7 @@ using api_bank.Domain.Enums;
 using api_bank.Domain.Exceptions;
 using api_bank.Domain.ValueObjects;
 using FluentAssertions;
+using Xunit;
 
 namespace api_bank.Domain.Tests.Entities;
 

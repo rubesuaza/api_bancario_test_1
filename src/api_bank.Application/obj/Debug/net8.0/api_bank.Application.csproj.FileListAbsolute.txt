@@ -1,0 +1,6 @@
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Application/obj/Debug/net8.0/api_bank.Application.csproj.AssemblyReference.cache
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Application/obj/Debug/net8.0/api_bank.Application.GeneratedMSBuildEditorConfig.editorconfig
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Application/obj/Debug/net8.0/api_bank.Application.AssemblyInfoInputs.cache
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Application/obj/Debug/net8.0/api_bank.Application.AssemblyInfo.cs
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Application/obj/Debug/net8.0/api_bank.Application.csproj.CoreCompileInputs.cache
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/src/api_bank.Application/obj/Debug/net8.0/api_bank.Application.sourcelink.json

@@ -1,0 +1,7 @@
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/tests/api_bank.Domain.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_api_bank.Domain.Tests
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/tests/api_bank.Domain.Tests/obj/Debug/net8.0/api_bank.Domain.Tests.csproj.AssemblyReference.cache
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/tests/api_bank.Domain.Tests/obj/Debug/net8.0/api_bank.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/tests/api_bank.Domain.Tests/obj/Debug/net8.0/api_bank.Domain.Tests.AssemblyInfoInputs.cache
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/tests/api_bank.Domain.Tests/obj/Debug/net8.0/api_bank.Domain.Tests.AssemblyInfo.cs
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/tests/api_bank.Domain.Tests/obj/Debug/net8.0/api_bank.Domain.Tests.csproj.CoreCompileInputs.cache
+/root/agent_code_generator/workspaces/workspace_api_bank/api_bancario_test_1/tests/api_bank.Domain.Tests/obj/Debug/net8.0/api_bank.Domain.Tests.sourcelink.json

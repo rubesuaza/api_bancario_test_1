@@ -1,5 +1,6 @@
 using api_bank.Domain.ValueObjects;
 using FluentAssertions;
+using Xunit;
 
 namespace api_bank.Domain.Tests.ValueObjects;
 
