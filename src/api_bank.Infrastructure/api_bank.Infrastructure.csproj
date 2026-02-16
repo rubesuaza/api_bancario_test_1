@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\api_bank.Application\api_bank.Application.csproj" />
+    <ProjectReference Include="..\api_bank.Domain\api_bank.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
